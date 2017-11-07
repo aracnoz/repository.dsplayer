@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <addons>
-<addon id="script.madvrsettings" name="madVR Settings" version="1.0.5" provider-name="Team Kodi DSPlayer">
+<addon id="script.madvrsettings" name="madVR Settings" version="1.0.6" provider-name="Team Kodi DSPlayer">
 	<extension point="xbmc.python.pluginsource" library="default.py">
 		<provides>executable</provides>
 	</extension>
